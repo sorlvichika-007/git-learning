@@ -1,3 +1,4 @@
 Hello Git!
 I am learning Git and GitHub.
 Git is powerful !
+GitHub stores my repository online.
